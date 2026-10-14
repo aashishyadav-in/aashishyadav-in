@@ -8,7 +8,7 @@ view portfolio 👉 ✉️ **aashishkumaryadav.com.np** For Collaboration/Projec
 - 👯 **I’m looking to collaborate on:** project
 - 🤔 **I’m looking for help with:** cybersecurity project
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 📫 **How to reach me:** aashish77.np@gmail.com
 - 😄 **Pronouns:** Aashish
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 <!--
