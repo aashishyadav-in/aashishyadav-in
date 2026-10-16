@@ -40,7 +40,6 @@ Here are some ideas to get you started:
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
 
 # 📊 GitHub Stats:
 
